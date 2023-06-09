@@ -1,0 +1,45 @@
+---
+title: "Publications"
+---
+<br>
+
+### Conference Papers
+
+<br> 
+
+- Hartmann, Stefan & Schnee, Lena (i.E.): Futurkonstruktionen im Wandel. werden + Infinitiv und Konkurrenzmuster aus konstruktionsgrammatischer Perspektive. In Jahrbuch für germanistische Sprachgeschichte. Berlin, Boston: De Gruyter.
+
+
+- Ihden, Sarah/ Schnee, Lena/ Schröder, Ingrid Korpusdaten als Basis für eine neue mittelniederdeutsche Grammatik – Möglichkeiten und Herausforderungen. In: Braun, Christian / Scherr, Elisabeth (Hrsg.): Methoden zur Erforschung grammatischer Strukturen in historischen Quellen. Vom Einzelfall zum System. Berlin / Boston: de Gruyter (Lingua Historica Germanica 28).
+
+#### 2022:
+
+- Schnee, Lena (2022) "Derivationsmorphologische Adaption mittelniederdeutscher Lehnwörter im Altnordischen". In: Regionale Varietäten früher und heute – Tagungsband des 7. Nachwuchskolloquium des Vereins für niederdeutsche Sprachforschung vom 4. bis 5. Oktober 2018 an der Universität Paderborn, S. 119–138.
+
+<br>
+
+#### 2019:
+
+- [The HUIU Contribution for the GermEval Shared Task 1](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/germeval-2019-hmc/paper-7.pdf). In: German Society for Computational Linguistics & Language Technology (Hg.): Proceedings of the 15th Conference on Natural Language Processing (KONVENS 2019). Erlangen. 336-340. (mit Melanie Andresen, Melitta Gillmann, Jowita Grala, Sarah Jablotschkin, Lea Röseler, Eleonore Schmitt, Katharina Straka, Michael Vauth, Sandra Kübler & Heike Zinsmeister).
+
+- [The HUIU Contribution for the GermEval Shared Task 2](https://konvens.org/proceedings/2019/papers/germeval/Germeval_Task_2_2019_paper_11.HUIU.pdf). In: German Society for Computational Linguistics & Language Technology (Hrsg.): Proceedings of the 15th Conference on Natural Language Processing (KONVENS 2019). Erlangen, 411-417. (mit Melanie Andresen, Melitta Gillmann, Jowita Grala, Sarah Jablotschkin, Lea Röseler, Eleonore Schmitt, Katharina Straka, Michael Vauth, Sandra Kübler & Heike Zinsmeister).
+
+<br>
+
+#### 2018:
+
+- "Eingenordet – Morphologische Assimilation mittelniederdeutscher Lehnwörter im Altnordischen". In: [Wie verändern wir Sprache? Beiträge aus einem Lehrprojekt zum Thema Sprachwandel](publikationen.ub.uni-frankfurt.de/files/47271/Wie_veraendern_wir_Sprache_Duecker.pdf), Universität Hamburg, Institut für Germanistik, SoSe 17 bis WiSe 17/18, S. 5–17.
+
+<br>
+<br>
+
+### Outreach
+<br>
+Contributions to the linguistics science communication blog *[di.tsvi.bl] Ein Blog über Sprache*:
+<br>
+
+- 2019: [Ich steh an deiner Krippen hier… Was macht das n da in der Krippen?](https://derzwiebel.wordpress.com/2019/12/17/ich-steh-an-deiner-krippen-hier-was-macht-das-n-da-in-der-krippen)
+
+- 2017: [Über Echsen und Eidechsen.](https://derzwiebel.wordpress.com/2017/09/19/ueber-echsen-und-eidechsen)
+
+

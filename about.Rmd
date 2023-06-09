@@ -1,0 +1,53 @@
+---
+title: "about"
+---
+<br>
+
+Hi! <br>
+I am a phd student in linguistics and I am working in the project *Futurkonstruktionen im Deutschen* (german future constructions) in Düsseldorf. 
+Together with Stefan Hartmann and three student assistants I do empirical research on the diachronic evolution of the two main ways to refer to future events (*werden+infinitive* and the *präsens pro futuro*) in earlier stages of German as well as their use in present day German.
+My phd thesis will focus on the synchronic part of the analyses. I will shine a light on the factors steering the use of the two afore-noted constructions.
+<br> 
+
+Download my complete CV (pdf) <a href="shorts-anleitungen.pdf" download>here</a>!
+
+<br>
+
+#### My background:
+
+
+
+- **B.A. (German Language and Literature)** in Hamburg with a strong focus on linguistics, especially historical linguistics, pheonomena of language change in the germanic languages but also middle high and low german literature. I took courses on and worked with the following historical language stages:
+  - old high german, 
+  - old english,  
+  - middle high german, 
+  - middle english,  
+  - middle low german and 
+  - early new high german.
+  
+<br>
+
+- I gained major expertise especially concerning middle low german working as a **student assistant in research projects**: the [Referenzkorpus-Mittelniederdeutsch "ReN"](https://www.slm.uni-hamburg.de/ren) (middle low german reference corpus), the [Mittelniederdeutsches Wörterbuch (MNWB)](https://www.slm.uni-hamburg.de/niederdeutsch/ueber-die-abteilung/mittelniederdeutsches-wb.html) (middle low german dictionairy) and the [middle low german grammar](https://www.slm.uni-hamburg.de/niederdeutsch/forschung/projekte/mittelniederdeutsche-grammatik.html), that is currently being worked on, based on the Referenzkorpus. Among the tasks I worked on where the following:
+
+  - reading and transcribing medieval and later manuscripts as well as early prints (ReN)
+  - pre-editing, morphological and pos annotations (ReN)
+  - literature search and proofreading (MNWB)
+  - data management, analyses, statistical methods, visualisations (grammar).
+
+  
+<br>
+
+- **M. A. (German Linguistics)** in Hamburg, broadening my education by putting the historical linguistics on hold for a bit, focussing on cognitive and discourse linguistics as well as statistical and computational methods. In classes and in side-projects I learned using R and Python for 
+  - data -acquisition and -handling, 
+  - statistical analyses as well as 
+  - visualisations. 
+
+
+<br>
+
+#### Theses:
+
+- the subject of my **B. A.thesis** (supervisors: Ingrid Schröder and Melitta Gilmann) was assimilation processes in middle low german loans in old norse (title: "Derivationsmorphologische Assimilation mittelniederdeutscher Lehnwörter im Altnordischen"). 
+
+- for my **M. A. thesis** (supervisors: Ingrid Schröder and Stefan Hartmann) i conducted a morphological study in the ReN, analysing  several aspects in the use of one middle low german deriviational suffix, with a strong focus on the effect of specific characteristics of the corpus itself on the evidence and results we may find in it (sufficiently vague title: "Das Suffix -*inge* im Mittelniederdeutschen - eine korpusbasierte Studie"). 
+

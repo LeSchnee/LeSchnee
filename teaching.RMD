@@ -1,0 +1,28 @@
+---
+title: "teaching"
+
+output: html_document
+---
+<br>
+####Summer 2023: (Hamburg)
+- Übung: [Python für die Textanalyse](https://www.stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000001,-N000681,-N0,-N385305895526134,-N385305895571135,-N0,-N0,-N0) (german)
+
+<br>
+<br>
+
+####Winter 2019/2020:
+
+- Tutorial: How to write a scientific paper in linguistics (german)
+
+<br>
+
+####Summer 2019:
+
+- Tutorial: How to write a scientific paper in linguistics (german)
+
+- Tutorial for an introductory course to linguistics with Sarah Ihden
+
+As part of a series of tutorials that also covers the matter for older and newer literature studies, I initiated, planned and gave a tutorial on writing scientific term papers in linguistics for bachelor students, together with Tanja Stevanović. 
+
+
+(The materials we designed for this tutorial will shortly be made available [here]().)

@@ -1,0 +1,32 @@
+---
+title: "Impressum"
+
+---
+ 
+<br> 
+
+Verantwortlich für den Inhalt der Website:
+
+Lena Schnee <br>
+Heinrich-Heine-Universität Düsseldorf <br>
+Abteilung für Germanistische Sprachwissenschaft <br>
+Universitätsstraße 1 <br>
+40225 Düsseldorf <br>
+
+<br>
+
+### Kontakt
+
+<br> 
+
+lena.schnee (at) hhu (punkt) de
+
+<br> 
+
+### Datenschutz
+
+<br> 
+
+Ich speichere keine Informationen über die Besucher*innen dieser Webseite.
+
+Die Webseite wird bei GitHub Pages gehostet. Zu umfassenden Informationen zu den von GitHub erhobenen und gespeicherten Daten siehe das GitHub Privacy Statement. In Bezug auf GitHub Pages heißt es dort: Please note that GitHub may collect User Personal Information from visitors to your GitHub Pages website, including logs of visitor IP addresses, to comply with legal obligations, and to maintain the security and integrity of the Website and the Service.

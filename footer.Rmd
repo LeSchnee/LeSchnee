@@ -1,0 +1,6 @@
+---
+title: "A sticky footer"
+output: html_document
+---
+
+huhu!
